@@ -402,7 +402,7 @@ process-mining-portfolio/
 ├── .gitignore
 └── docs/
     └── Process_Analytics_Portfolio_Sanitized.pdf
----
+```
 
 ## Confidentiality Note
 
