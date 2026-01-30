@@ -1,0 +1,23 @@
+# data files
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+
+# notebooks
+.ipynb_checkpoints/
+
+# secrets
+.env
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.pdf
+!docs/Process_Analytics_Portfolio_Sanitized.pdf
